@@ -1,0 +1,13 @@
+# Fichiers de build de CLion / CMake
+cmake-build-debug/
+build/
+.idea/
+
+# Fichiers compilés et exécutables (inutiles sur Git)
+*.exe
+*.obj
+*.o
+*.dll
+
+# Fichiers de données générés (le CSV qu'on a créé)
+*.csv
